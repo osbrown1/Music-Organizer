@@ -82,7 +82,7 @@ namespace MusicOrganizer.Tests
       CollectionAssert.AreEqual(newList, result);
     }
 
-    [TestMethod]
+    [TestMethod] // checks the Id of a specific title
     public void GetId_AlbumInstantiateWithAnIdAndGetterReturns_Int()
     {
       //Arrange
