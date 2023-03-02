@@ -1,37 +1,33 @@
-# _{Application Name}_
+# _Music Organizer_
 
-#### By _**{List of contributors}**_
+#### By _Owen Brown, Erin Timlin, Sarah Andyshak_
 
-#### _{Brief description of application}_
+#### _A website that allows you to organize and search your music collection._
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* .Net 6
+* ASP.NET Core MVC 6
+* C# 10
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+Users can create entries to organize their music collection by album and artist, then search through the organizer to find information.
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* Clone this repo.
+* Open your shell (e.g., Terminal or GitBash) and navigate to this project's production directory
+* Run dotnet run
+* Open the browser to https://localhost:5001/
+* To run tests, run dotnet test
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known bugs at this time!_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+Please reach out with any questions or concerns!
 
-Copyright (c) _date_ _author name(s)_
+Copyright [MIT](https://opensource.org/license/mit/) (c) _2023-03-02_ _Owen Brown, Erin Timlin, Sarah Andyshak_
