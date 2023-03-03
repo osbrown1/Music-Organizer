@@ -24,7 +24,7 @@ Users can create entries to organize their music collection by album and artist,
 
 ## Known Bugs
 
-* _No known bugs at this time!_
+* As of 4:30 on 2 March 2023, currently incomplete -- need to finish Views.
 
 ## License
 
